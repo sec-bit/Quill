@@ -1,4 +1,4 @@
-# quill
+# Quill
 
 An open source cryptocurrency signature tool
 
@@ -18,9 +18,9 @@ An open source cryptocurrency signature tool
 
 ## Features
 
-* Import type: private key, mnemonic
+* Import types: private key, mnemonic
 
-* Export type: json, csv and excel 
+* Export types: json, csv and excel 
 
 * supported cryptocurrencies
  
